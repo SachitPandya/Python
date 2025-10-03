@@ -1,0 +1,1 @@
+When opening a file, we must specify the mode we want to which specifies wha

@@ -1,0 +1,7 @@
+When opening a file, we must specify the mode we want to which specifies what we want to do with the file. 
+Here a table of the different modes available:
+Letter\nUppercase\nLowercase
+Beta	    Β          β
+Gamma	    Γ	       γ
+Delta	    Δ	       δ
+Epsilon     Ε	       ε
