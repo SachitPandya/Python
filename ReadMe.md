@@ -6,6 +6,6 @@
 <h5>3. Run the files , and if paths are used Please change accordingly because I have used static paths</h5>
 <h5>4. If there are any other instructions, You can also let me know!!</h5>
 
-<h5><b>Enjoy!!!!!!!!!!!!!!!!!!!</b></h5>
+<h3><b>Enjoy!!!!!!!!!!!!!!!!!!!</b></h3>
 
 <h2>Sachit Pandya</h2>
