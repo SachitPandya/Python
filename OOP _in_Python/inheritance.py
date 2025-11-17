@@ -35,6 +35,9 @@
 
 # c1=Animal("billu",5) 
 # print(c1.speak(),c1.get_age())      
+
+
+
 import math
 print(math.comb(12,9))         
 """It selects the number of possiblities 
