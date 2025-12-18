@@ -1,4 +1,4 @@
-<h4>This Repository contains all the python codes and functions which I have used ,This repository contains all things of Python from baics to ML and OpenCv</h4>
+<h4>This Repository contains all the python codes and functions which I have used ,This repository contains all things of Python from baics to ML ,OpenCv and Deep Learning</h4>
 
 <h2><b> Steps to run this Repository</b></h2>
 <h5>1. Clone the Repository</h5>
@@ -14,3 +14,4 @@ THANK YOU!!!</h5>
 <h4>OpenCv Repository Link -> https://github.com/SachitPandya/OpenCV</h4>
 
 <h2>Sachit Pandya</h2>
+<p><h5>I made this repo for learning python so</h5><h4>PLEASEEEEE DON'T JUDGE MEEE!!!!!!!</h4></p>
