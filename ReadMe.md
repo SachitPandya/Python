@@ -14,4 +14,5 @@ THANK YOU!!!</h5>
 <h4>OpenCv Repository Link -> https://github.com/SachitPandya/OpenCV</h4>
 
 <h2>Sachit Pandya</h2>
-<p><h5>I made this repo for learning python so</h5><h4>PLEASEEEEE DON'T JUDGE MEEE!!!!!!!</h4></p>
+<p><h5>I made this Repository for learning python.</h5><h4>PLEASEEEEE DON'T JUDGE MEEE!!!!!!!</h4></p>
+<h6> AND you still do you are bad person!!!</h6>
