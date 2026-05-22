@@ -1,5 +1,4 @@
-
- We very recently got the first pictures of black holes dense that its gravity prevents anything from escaping, even light.
+We very recently got the first pictures of black holes dense that its gravity prevents anything from escaping, even light.
 Albert Einstein's theory of general relativity predicts that a sufficiently compact mass will form a black hole.
 [3] The boundary of no escape is called the event horizon. A black hole has a great effect on the fate and circumstances of an object crossing it, but has no locally detectable features according to general relativity.
 [4] In many ways, a black hole acts like an ideal black body, as it reflects no light.[5][6] Quantum field theory in curved spacetime predicts that event horizons emit Hawking radiation, with the same spectrum as a black body of a temperature inversely proportional to its mass. 
