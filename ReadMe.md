@@ -1,4 +1,4 @@
-<h4>This Repository contains all the python codes and functions which I have used ,This repository contains all things of Python from baics to ML ,OpenCv and Deep Learning</h4>
+<h4>This Repository contains all the python codes and functions which I have used ,This repository contains all things of Python from basics to ML ,OpenCv and Deep Learning</h4>
 
 <h2><b> Steps to run this Repository</b></h2>
 <h5>1. Clone the Repository</h5>
