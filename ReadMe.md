@@ -1,18 +1,29 @@
-<h4>This Repository contains all the python codes and functions which I have used ,This repository contains all things of Python from basics to ML ,OpenCv and Deep Learning</h4>
+# Python: From "Hello World" to "Why Is My Model Overfitting"
 
-<h2><b> Steps to run this Repository</b></h2>
-<h5>1. Clone the Repository</h5>
-<h5>2. Install the Requirements.txt , there might be some libraries which i might have forgot, So SORRY!!!</h5>
-<h5>3. Run the files , and if paths are used Please change accordingly because I have used static paths, And I'm too lazy to change</h5>
-<h5>4. If any error comes due to path or dependencies then that's not my fault since I have already told you, then There has to be something serious with you!! </h5>
-<h5>5. If there are any other Things which i have forgot to add, Please also let me know
-THANK YOU!!!</h5>
+Every Python thing I've ever touched lives here: basics, OOP, advanced stuff, ML, a bit of OpenCV and Deep Learning.
+I made this repo to learn Python. **PLEASEEEEE DON'T JUDGE MEEE!!!!!!!**
+(And if you still judge me, you are a bad person. It's in writing now.)
 
+## What's in here
+| Folder | What you'll find |
+|--------|------------------|
+| `python_files/`, `module3/` | Basics: I/O, operators, functions, scopes, file handling, errors, list comprehensions |
+| `OOP _in_Python/` | Classes, inheritance, polymorphism, encapsulation, abstraction (yes, there's a space in the folder name. No, I won't fix it) |
+| `Advance_Python/` | Decorators, context managers, iterators/generators, regex, multithreading, multiprocessing |
+| `Machine_Learning/` | NumPy, Pandas, Matplotlib, EDA, classification, regression, clustering |
+| `Deep_Learning/` | Perceptron, CNN, RNN |
+| `Tests/`, `Practice tests/` | Me getting tested. Results classified |
+| `Datasets/`, `Images/`, `Videos/` | The stuff the notebooks chew on |
 
-<h3><b>Enjoy!!!!!!!!!!!!!!!!!!!</b></h3>
+## How to run this thing
+1. Clone it.
+2. `pip install -r Requirements.txt`. I might have forgotten some libraries. SORRY!!!
+3. Run the files. I used static paths everywhere because I'm too lazy to change them, so change them yourself.
+4. If it breaks because of paths or dependencies, that's not my fault. I already warned you. If it still breaks after that, there's something seriously wrong with *you*.
+5. If I forgot anything else, let me know. THANK YOU!!!
 
-<h4>OpenCv Repository Link -> https://github.com/SachitPandya/OpenCV</h4>
+**Enjoy!!!!!!!!!!!!!!!!!!!**
 
-<h2>Sachit Pandya</h2>
-<p><h5>I made this Repository for learning python.</h5><h4>PLEASEEEEE DON'T JUDGE MEEE!!!!!!!</h4></p>
-<h6> And you still judge me, you are bad person!!!</h6>
+Sibling repo, for when you want more pixels: [OpenCV](https://github.com/SachitPandya/OpenCV)
+
+*Sachit Pandya*
